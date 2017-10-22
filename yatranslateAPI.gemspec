@@ -1,10 +1,7 @@
-# coding: utf-8
-lib = File.expand_path("../lib", __FILE__)
-$LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
-require "yatranslateAPI/version"
+require "./lib/yatranslateAPI/version"
 
 Gem::Specification.new do |spec|
-  spec.name          = "YatranslateAPI"
+  spec.name          = "yatranslateapi"
   spec.version       = YatranslateAPI::VERSION
   spec.authors       = ["GeorSh"]
   spec.email         = ["shepelevgeorg@gmail.com"]
