@@ -1,4 +1,4 @@
-require "./lib/yatranslateAPI/version"
+require "./lib/yatranslateAPI/client"
 
 Gem::Specification.new do |spec|
   spec.name          = "yatranslateapi"
