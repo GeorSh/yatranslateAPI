@@ -1,3 +1,2 @@
-require 'yatranslateAPI/version'
-require 'yatranslateAPI/client'
+require './yatranslateAPI/client'
 

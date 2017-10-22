@@ -1,5 +1,5 @@
 # encoding: UTF-8
-require 'yatranslateAPI/gateway'
+require './gateway'
 
 module YatranslateAPI
   class Client
