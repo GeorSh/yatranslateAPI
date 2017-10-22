@@ -1,4 +1,4 @@
-require './errors'
+require 'errors'
 require 'json'
 require 'httpclient'
 require 'uri'
