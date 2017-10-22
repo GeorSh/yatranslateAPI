@@ -1,4 +1,4 @@
-$:.push File.expand_path("../lib", __FILE__)
+require './lib/yatranslateAPI/version'
 
 Gem::Specification.new do |spec|
   spec.name          = "yatranslateapi"
